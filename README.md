@@ -6,7 +6,7 @@ This repository contains the complete implementation, experiments, documentation
 
 ---
 
-## Features
+## ✨ Features
 
 - Privacy-Preserving Federated Learning framework
 - Centralized and Federated training pipelines
@@ -19,7 +19,7 @@ This repository contains the complete implementation, experiments, documentation
 
 ---
 
-# Repository Structure
+# 📂 Repository Structure
 
 ```
 PrivaFed/
@@ -64,7 +64,7 @@ PrivaFed/
 
 ---
 
-# Directory Description
+# 📁 Directory Description
 
 ## Additional Code
 
@@ -156,7 +156,7 @@ These papers helped in selecting suitable segmentation models, federated learnin
 
 ---
 
-# Dataset
+# 📊 Dataset
 
 This project utilizes publicly available brain stroke MRI datasets.
 
@@ -190,7 +190,7 @@ Input resolutions used during experiments:
 
 ---
 
-# Experimental Setups
+# 🧪Experimental Setups
 
 ## 1. ISLES'22 Centralized Learning
 
@@ -457,7 +457,7 @@ FedProx
 
 ---
 
-# Models Used
+# 🤖 Models Used
 
 - SegResNet
 - Swin UNETR
@@ -471,7 +471,7 @@ FedProx
 
 ---
 
-# Federated Aggregation Algorithms
+# ⚙️ Federated Aggregation Algorithms
 
 The following federated optimization algorithms were evaluated:
 
@@ -484,7 +484,7 @@ The following federated optimization algorithms were evaluated:
 
 ---
 
-# Future Work
+# 🚀 Future Work
 
 Possible future improvements include:
 
@@ -497,7 +497,8 @@ Possible future improvements include:
 
 ---
 
-# Citation
+<!--
+# 📚 Citation
 
 If you use this repository in your research, please cite our Final Year Project.
 
@@ -510,7 +511,8 @@ If you use this repository in your research, please cite our Final Year Project.
 ```
 
 ---
+-->
 
-# License
+# 📜 License
 
 This repository is intended for academic and research purposes. It is licensed under MIT License.
